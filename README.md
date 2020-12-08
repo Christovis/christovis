@@ -16,5 +16,6 @@
   </a>
 </p>
 
+Hello, I am a PhD student at the Institute for Computational Cosmology (ICC), member of the Institute for Data Science (IDAS) and ricipient of the STFC/CDT studentship, whose research focuses on unraveling the enigmatic dynamics of complex systems.
 
 ###### [*Climate Change Infographic*](https://showyourstripes.info/) designed by Professor Ed Hawkins (University of Reading)
