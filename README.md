@@ -1,4 +1,4 @@
-![Warming Stripes for Durham](https://github.com/Christovis/christovis/blob/master/EUROPE-United_Kingdom-1850-2019-MO.png?raw=true)
+![Warming Stripes for Durham](https://github.com/Christovis/christovis/blob/main/EUROPE-United_Kingdom-1850-2019-MO.png?raw=true)
 
 
 ### 👋 I'm Christovis
