@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?label=Name&message=Christovis&color=2ec352&labelColor=2c3239"
          alt="Name">
   </a>
-  <a href="https://pronoun.is/he">
+  <a href="https://pronoun.is/they">
     <img src="https://img.shields.io/static/v1?label=Pronouns&message=he%2Fhim&color=2ec352&labelColor=2c3239"
          alt="Pronouns">
   </a>
