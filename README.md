@@ -4,7 +4,7 @@
 ### 👋 I'm Christovis
 
 <p>
-  <a href="https://christovis.github.io/">
+  <a href="http://www.chrbecker.net">
     <img src="https://img.shields.io/static/v1?label=Name&message=Christovis&color=2ec352&labelColor=2c3239"
          alt="Name">
   </a>
