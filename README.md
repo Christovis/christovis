@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/static/v1?label=Pronouns&message=they%2Fthem&color=2ec352&labelColor=2c3239"
          alt="Pronouns">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Berlin">
-    <img src="https://img.shields.io/static/v1?label=Location&message=DE&color=2ec352&labelColor=2c3239"
+  <a href="https://en.wikipedia.org/wiki/Amsterdam">
+    <img src="https://img.shields.io/static/v1?label=Location&message=NL&color=2ec352&labelColor=2c3239"
          alt="Location">
   </a>
 </p>
